@@ -1,0 +1,4 @@
+triangulo azul 5; 2,5
+cubo azul 4
+rectangulo azul 1,4; 2
+cilindro rojo 2,5; 3
